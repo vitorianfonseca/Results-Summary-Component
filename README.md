@@ -4,7 +4,7 @@
 
 Projeto construído atavés do site Frontend Mentor.
 
-[Clique aqui para acessar](https://equalizer.vitoriafonseca.pt/)
+[Clique aqui para acessar](https://rsc.vitoriafonseca.pt/)
 
 ## Tecnologias
 
