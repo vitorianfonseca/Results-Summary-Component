@@ -200,7 +200,6 @@ body {
 
 .number-pt2 {
     color: var(--Dark-Navy, #303B59);
-    padding-right: 1rem;
     opacity: 0.5;
 
     font-family: Hanken Grotesk;
